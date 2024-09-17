@@ -1,4 +1,3 @@
 [<img src="https://Dinuka-1999.github.io/my1.jpg" height="200" style="float: right;">](https://Dinuka-1999.github.io/my1.jpg)
 # About me 
-I am a dynamic individual with a sound educational background who is passionate about machine learning, computer vision, signal and image processing, and mathematics. My research interest and experience align with these areas, as well as I am eager to learn new technology and apply my knowledge to explore new research areas in the AI domain.
-
+I hold a first-class honors degree in Biomedical Engineering from the Department of Electronic and Telecommunication Engineering at the University of Moratuwa, Sri Lanka. My university journey began in 2020 following my exceptional performance in the G.C.E Advance Level examination in the Physical Science stream, where I achieved a ranking in the top 1% nationwide. I am presently serving as a teaching assistant at the Department of Electronic and Telecommunication Engineering.

@@ -2,5 +2,5 @@ title: Dinuka Sandun Udayantha
 description: Welcome to my Homepage
 theme: jekyll-theme-dinky
 show_downloads: false
-# google_analytics: [Your Google Analytics tracking ID]
-image: ![DinukaIMG](https://github.com/user-attachments/assets/14b71cc7-c89a-4e3a-aab6-0b7ee0303ee5)
+github:
+  ribbon: false

@@ -1,10 +1,5 @@
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.png" height="30" style="float: left;">](https://scholar.google.com/citations?user=lGfk7YEAAAAJ&hl=en)  
-
-
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="30" style="float: left;">](https://www.linkedin.com/in/dinuka-sandun-5b120421b/)
-
-
+[<img src="https://Dinuka-1999.github.io/google-scholar.png" height="30" style="float: left;">](https://scholar.google.com/citations?user=lGfk7YEAAAAJ&hl=en)  
+[<img src="https://Dinuka-1999.github.io/linkedin.png" height="30" style="float: left;">](https://www.linkedin.com/in/dinuka-sandun-5b120421b/)
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" style="float: left;">](https://github.com/Dinuka-1999)
 
 [<img src="https://Dinuka-1999.github.io/my1.jpg" height="200" style="float: right;">](https://Dinuka-1999.github.io/my1.jpg)

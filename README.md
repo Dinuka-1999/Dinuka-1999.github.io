@@ -1,3 +1,4 @@
+[Google Sholar](https://scholar.google.com/citations?user=lGfk7YEAAAAJ&hl=en)  [Linkedin](https://www.linkedin.com/in/dinuka-sandun-5b120421b/)
 [<img src="https://Dinuka-1999.github.io/my1.jpg" height="200" style="float: right;">](https://Dinuka-1999.github.io/my1.jpg)
 # About me 
 Hello there! I am Dinuka Sandun Udayantha. I hold a first-class honors degree in Biomedical Engineering from the Department of Electronic and Telecommunication Engineering at the University of Moratuwa, Sri Lanka. My university journey began in 2020 following my exceptional performance in the G.C.E Advance Level examination in the Physical Science stream, where I achieved a ranking in the top 1% nationwide. I am presently serving as a teaching assistant at the Department of Electronic and Telecommunication Engineering.

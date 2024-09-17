@@ -6,4 +6,6 @@ I am a dynamic individual with a strong educational foundation. My research inte
 
 [<img src="https://Dinuka-1999.github.io/google-scholar.png" height="30" style="float: left;margin-right: 15px;">](https://scholar.google.com/citations?user=lGfk7YEAAAAJ&hl=en)[<img src="https://Dinuka-1999.github.io/linkedin.png" height="30" style="float: left;margin-right: 15px;">](https://www.linkedin.com/in/dinuka-sandun-5b120421b/)[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" style="float: left;">](https://github.com/Dinuka-1999)
 
+<div style="clear: both;"></div>
+
 # Research Interest

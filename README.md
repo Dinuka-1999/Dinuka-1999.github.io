@@ -9,3 +9,10 @@ I am a dynamic individual with a strong educational foundation. My research inte
 <div style="clear: both;"></div>
 
 # Research Interest
+* Computer Vision and Pattern Recognition
+* Machine Learning
+* Deep Learning
+* Signal/Image Processing
+* Medical Image Processing
+* Brain-Computer Interface (BCI)
+* Mathematical Optimization
